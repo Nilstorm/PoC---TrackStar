@@ -12,7 +12,7 @@ const redirectUrl = 'https://127.0.0.1:8080';        // your redirect URL - must
 
 const authorizationEndpoint = "https://accounts.spotify.com/authorize";
 const tokenEndpoint = "https://accounts.spotify.com/api/token";
-const scope = 'user-read-private user-read-email';
+const scope = 'user-read-private user-read-email user-modify-playback-state';
 
 // Data structure that manages the current active token, caching it in localStorage
 const currentToken = {
