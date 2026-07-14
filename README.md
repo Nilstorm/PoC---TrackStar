@@ -1,1 +1,1 @@
-## A Simple PoC for Spotify using PKCE Auth Flow
+## A Simple PoC for a Spotify app using PKCE Auth Flow
